@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+cs6493/lecture.zip filter=lfs diff=lfs merge=lfs -text
+cs6493/tutorial.zip filter=lfs diff=lfs merge=lfs -text
+cs6493/Tutorials/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
